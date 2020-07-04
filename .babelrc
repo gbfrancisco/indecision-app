@@ -1,0 +1,13 @@
+/**********************************************************
+* If you want to add babel class properties preset, add the
+* following to the JSON file:
+*
+* "plugins": ["@babel/plugin-proposal-class-properties"]
+*
+***********************************************************/
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
